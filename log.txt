@@ -1,0 +1,21 @@
+2022-04-20 00:33:34.594 HOST:LAN:stop plugin
+2022-04-20 00:33:34.667 HOST:tcplugins_ntfs_ro:initiate connection to plugin
+2022-04-20 00:33:34.678 HOST:tcplugins_ntfs_ro:bindService succeeded
+2022-04-20 00:33:34.695 HOST:tcplugins_ntfs_ro:WaitUntilConnected:Background
+2022-04-20 00:33:35.008 HOST:tcplugins_ntfs_ro:Service connected!
+2022-04-20 00:33:35.014 HOST:tcplugins_ntfs_ro:get dir: /
+2022-04-20 00:33:35.041 HOST:tcplugins_ntfs_ro:checkConnectionAlive: 1
+2022-04-20 00:33:41.251 HOST:drive:checkConnectionAlive: 1
+2022-04-20 00:33:41.256 HOST:drive:get dir: /
+2022-04-20 00:33:41.263 drive:LIST /
+2022-04-20 00:33:42.934 drive:open /<Add Google account>
+2022-04-20 00:33:46.500 HOST:drive:get dir: /
+2022-04-20 00:33:46.507 drive:LIST /
+2022-04-20 00:33:48.832 drive:open /<Add Google account>
+2022-04-20 00:33:50.654 HOST:drive:get dir: /
+2022-04-20 00:33:50.662 drive:LIST /
+2022-04-20 00:33:53.209 drive:open /<Settings & Privacy>
+2022-04-20 01:31:13.169 HOST:drive:Service disconnected!
+2022-04-20 01:31:14.414 HOST:drive:Service connected!
+2022-04-20 03:56:19.748 HOST:drive:Service disconnected!
+2022-04-20 03:56:20.908 HOST:drive:Service connected!
